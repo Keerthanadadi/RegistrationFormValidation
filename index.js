@@ -1,4 +1,4 @@
-let emailVaid = document.getElementById("emailValid");
+let emailValid = document.getElementById("emailValid");
 let emailInvalid = document.getElementById("emailInvalid");
 let phoneNumberValid = document.getElementById("phoneNumberValid");
 let phoneNumberInvalid = document.getElementById("phoneNumberInvalid");
